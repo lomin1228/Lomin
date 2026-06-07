@@ -1,0 +1,19 @@
+[project]
+name = "ai-video-agent"
+version = "0.1.0"
+description = "Automated long-form AI video pipeline with shorts generation."
+requires-python = ">=3.11"
+dependencies = [
+  "requests",
+  "python-dotenv",
+]
+
+[project.scripts]
+ai-video-agent = "ai_video_agent.cli:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
