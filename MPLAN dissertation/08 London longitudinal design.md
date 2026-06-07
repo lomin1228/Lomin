@@ -32,6 +32,17 @@
 ### The recommended fieldwork transect (feasibility win)
 A single **walkable Thames South Bank / Bankside transect (Lambeth–Southwark)** literally contains the eras side by side: **Festival of Britain/Southbank Centre (1951) → More London & The Scoop (2002) → One Blackfriars (2018)**, with **Elephant & Castle/Heygate** just inland. You can collect primary observation for the whole study in a few days on foot — ideal for ethics, cost and rigour. The river holds "waterfront regeneration" constant; only the *era/delivery model* varies.
 
+### Failed-and-rebuilt pairs (your idea — same site, old vs new)
+You wanted exemplars that *still exist*, plus some that **failed fast and were rebuilt**, so you can compare old vs new *on the same ground* and isolate regulation as the cause. Three verified Thames-side pairs (full identification logic in **`09`**):
+
+| Pair | "Old" (failed) | "New" (rebuilt) |
+|---|---|---|
+| **P1** | **Robin Hood Gardens**, GLC Brutalist, 1972, Poplar/Blackwall; demolished 2017–2025 | **Blackwall Reach** (~1,575 homes, 45–60% affordable) |
+| **P2** | **Heygate Estate**, GLC/Southwark, 1974, Elephant & Castle; demolished 2011–2014 | **Elephant Park** (Lendlease, market-led) |
+| **P3** | **Thamesmead** stages 1–2, GLC riverside "town of the future", 1966–74; failed | **Peabody regeneration** (2014–) |
+
+> **Critical:** comparing only old↔new does NOT control for technology or changing taste (the new build is also newer-tech and newer-fashion). To attribute the difference to *regulation*, you must also use **contemporaneous matched pairs** and **measure only regulation-sensitive attributes** — see `09 isolating regulation`. This is the dissertation's key methodological contribution.
+
 ---
 
 ## The debate your data will resolve (the heart of the dissertation)
@@ -65,3 +76,8 @@ Clifford's thesis is that **deregulated, market-led delivery degrades the qualit
 - Centre for London (2019) *Public London: Investigating the Regulation of Public Spaces*. London: Centre for London / GLA.
 - Mayor of London (2020) *Public London Charter*. London: GLA.
 - Shenker, J. (2017) 'Revealed: the insidious creep of pseudo-public space in London', *The Guardian*, 24 July. *(discourse source)*
+
+### Failed-and-rebuilt case sources (verified)
+- *Robin Hood Gardens* (Smithsons, 1972; demolished 2017–2025) → *Blackwall Reach* (Tower Hamlets / Swan): scheme approved 2012, ~1,575 homes, 45–60% affordable. Sources: Twentieth Century Society; *Architects' Journal* (Blackwall Reach Phase 2). ⚠ *(cite specific articles; confirm final figures)*
+- *Heygate Estate* (1974; demolished 2011–14) → *Elephant Park* (Lendlease). See Lees (2014); Lees & Ferreri (2016) in `05`.
+- *Thamesmead* (GLC, 1966–74) → *Peabody regeneration* (2014–). Source: Peabody/Thamesmead Now history; RIBApix. ⚠ *(confirm specific citations)*

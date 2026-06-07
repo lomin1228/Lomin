@@ -44,7 +44,9 @@ Your meeting notes already point here. Clifford's whole research programme is ab
 - `05 references.md` — verified Harvard reference list (incl. citations harvested from your modules)
 - `06 cross-module evidence base.md` — **everything reusable mined from your bpln0005/0041/0055 coursework**
 - `07 marking criteria + distinction strategy.md` — the official UCL bands + how we hit Distinction
-- `08 London longitudinal design.md` — **the confirmed design: periodisation, exemplars, fieldwork transect, the debate**
+- `08 London longitudinal design.md` — the confirmed design: periodisation, exemplars, fieldwork transect, the debate
+- `09 isolating regulation - identification strategy.md` — **how to attribute design change to regulation, not technology/taste (the key contribution)**
+- `10 quantitative plan + research element options.md` — **the quant-only dataset, regime index, charts; research-element brainstorm**
 - `data/` — datasets (GIS layers, ONS/London Datastore, index scores)
 - `fieldwork/` — observation coding sheets, site photos, ethics
 - `analysis/` — scripts + charts
@@ -60,11 +62,17 @@ Your own past work has made this dissertation **much stronger and London-feasibl
 
 Confirmed spine: **London longitudinal** — your One Blackfriars work becomes the *viability/austerity phase* exemplar within a transect that runs from the Festival of Britain (1951) through Docklands and More London to today's charter era. See `08`.
 
-## Open decisions (remaining)
+## Decisions (locked in)
 
-1. ~~Scope~~ → **DECIDED: London-only, longitudinal across time.**
-2. ~~Comparison axis~~ → **DECIDED: time/phases.**
-3. **How many phases/exemplars?** All 5 (1945→now), or a tighter 3–4 (e.g. Docklands → More London → One Blackfriars → charter era). Fewer + deeper scores higher.
-4. **The "one element":** publicness of public space (recommended) — confirm vs green-space provision.
-5. **Primary data + ethics:** observation-only (light ethics, recommended) vs adding interviews (full ethics by June).
-6. **Historical exemplars:** how to score *past* states of space (archival photos/plans + present-day observation of what survives) — I'll build the protocol once you pick the phases.
+1. **Scope** → London-only, longitudinal across time. ✅
+2. **Comparison axis** → time/phases. ✅
+3. **Phases** → all 5 (1945 → now). ✅ (see `08`)
+4. **The "one element"** → **publicness of public space**, sharpened to access rights + management rules + defensive design, carrying **affordable-housing %** as a second purely-regulatory variable. ✅ (rationale + alternatives in `10`)
+5. **Primary data + ethics** → **observation + quantitative only, no interviews** (light ethics). ✅
+6. **Historical exemplars** → must still exist *or* be a **failed-and-rebuilt pair** (Robin Hood Gardens→Blackwall Reach; Heygate→Elephant Park; Thamesmead→Peabody), scored by archival evidence + present-day observation. ✅ (see `08`)
+7. **The hard one — isolating regulation from technology/taste** → solved via the four-part identification strategy in **`09`** (measure regulation-sensitive attributes only; same-site pairs; contemporaneous matched pairs; regulatory discontinuities) + the **regulatory regime index** in `10`.
+
+### Still to do (my next build steps)
+- Build `data/publicness_scores.csv` template + `analysis/` Python script (trajectory line, paired bars, regime-vs-publicness scatter, radar stars).
+- Build the `fieldwork/` observation coding sheet (Németh–Schmidt + Varna–Tiesdell + your hierarchy + hostile-design + regime-index coding).
+- Draft proposal §1 Statement of Context + §2 Literature Review.

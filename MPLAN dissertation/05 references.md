@@ -79,6 +79,13 @@
 ✅ Shenker, J. (2017) 'Revealed: the insidious creep of pseudo-public space in London', *The Guardian*, 24 July. *(use as discourse, not neutral evidence)*
 ✅ Urban Task Force (1999) *Towards an Urban Renaissance*. London: Department of the Environment, Transport and the Regions / E & FN Spon.
 
+### Failed-and-rebuilt exemplars (verified facts; cite specific articles before submission)
+✅ Twentieth Century Society (n.d.) *Robin Hood Gardens, Poplar, London*. Available at: https://c20society.org.uk/lost-modern/robin-hood-gardens-poplar-london (Accessed: [date]). *(1972 Smithsons estate; demolition; listing refused)*
+⚠ *Architects' Journal* (2025) 'Met Workshop and Haworth Tompkins replace Robin Hood Gardens with 268 homes' [Blackwall Reach Phase 2]. *(confirm author/date; ~45–60% affordable across 1,575-home scheme)*
+✅ Peabody / Thamesmead Now (n.d.) *Thamesmead's History*. Available at: https://www.thamesmeadnow.org.uk/about/thamesmeads-history/ (Accessed: [date]). *(GLC 1966 masterplan; failure factors; Peabody 2014–)*
+
+> Robin Hood Gardens: completed **1972** (GLC), demolished **2017–2025**, Blackwall Reach approved **2012**. Heygate: 1974, demolished 2011–14 → Elephant Park (see Lees refs above). Thamesmead: GLC masterplan **1966**, GLC abolished 1985, Peabody since **2014**.
+
 ---
 ### Still to add once scope is fixed
 - NYC POPS: Kayden, J.S. (2000) *Privately Owned Public Space: The New York City Experience*. New York: Wiley. *(seminal — confirm)*
