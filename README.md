@@ -1,3 +1,15 @@
+# Field Notes and a Subway Builder mod
+
+The documentary studio lives in [`studio/`](studio/README.md). It turns a sourced brief into a 16:9 flashcard film. The pilot is a five-minute explainer of Apple's published iPhone Duo research.
+
+```bash
+cd studio
+npm install
+npm test
+npm run produce
+npm run studio
+```
+
 # Subway Builder Mod Template
 
 > [!IMPORTANT]
