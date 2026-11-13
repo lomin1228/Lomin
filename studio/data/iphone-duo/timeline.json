@@ -1,0 +1,672 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 8841,
+  "durationSec": 294.7,
+  "speech": {
+    "provider": "edge-tts",
+    "model": "en-US-AndrewNeural",
+    "rate": "segments 1–2 spoken at +16%; segments 3–10 time-stretched 1.168× so the English narration is 292 seconds"
+  },
+  "musicFile": "projects/iphone-duo/audio/score.wav",
+  "segments": [
+    {
+      "id": "seg-01",
+      "chapterId": "ch-question",
+      "sceneIds": [
+        "cold-open"
+      ],
+      "evidenceIds": [
+        "e-announce",
+        "e-displays"
+      ],
+      "sourceLabel": "Apple Newsroom",
+      "audioFile": "projects/iphone-duo/audio/en/seg-01.mp3",
+      "startFrame": 0,
+      "durationFrames": 642,
+      "narration": "On September 9, 2026, in Cupertino, Apple introduced iPhone Duo and called it the first foldable iPhone. Open, Apple says it is the thinnest iPhone it has made, with a 7.6-inch inner display. Closed, a 5.4-inch outer display is meant for a pocket. This film does not replay the keynote. It asks what Apple published about the fold, and which figures are measurements.",
+      "captions": [
+        {
+          "startFrame": 2,
+          "endFrame": 210,
+          "text": "On September 9, 2026, in Cupertino, Apple introduced iPhone Duo and called it the first foldable iPhone."
+        },
+        {
+          "startFrame": 210,
+          "endFrame": 367,
+          "text": "Open, Apple says it is the thinnest iPhone it has made, with a 7.6-inch inner display."
+        },
+        {
+          "startFrame": 367,
+          "endFrame": 474,
+          "text": "Closed, a 5.4-inch outer display is meant for a pocket."
+        },
+        {
+          "startFrame": 474,
+          "endFrame": 530,
+          "text": "This film does not replay the keynote."
+        },
+        {
+          "startFrame": 530,
+          "endFrame": 639,
+          "text": "It asks what Apple published about the fold, and which figures are measurements."
+        }
+      ],
+      "translations": {
+        "es": "El 9 de septiembre de 2026, en Cupertino, Apple presentó el iPhone Duo y lo llamó el primer iPhone plegable. Abierto, Apple dice que es el iPhone más delgado que ha fabricado, con una pantalla interior de 7,6 pulgadas. Cerrado, una pantalla exterior de 5,4 pulgadas está pensada para el bolsillo. Esta pieza no repite la keynote. Pregunta qué publicó Apple sobre el pliegue, y cuáles de esas cifras son mediciones.",
+        "zh": "2026年9月9日，苹果在库比蒂诺发布 iPhone Duo，并称它是第一款可折叠 iPhone。苹果说，展开后它是该公司做过的最薄 iPhone，内屏 7.6 英寸。合上后，5.4 英寸的外屏用来放回口袋。这部片子不重播发布会。它要问的是：关于这道折痕，苹果公开了什么，哪些数字是测量结果。"
+      },
+      "shots": [
+        {
+          "id": "sh-open",
+          "scene": "cold-open",
+          "startFrame": 0,
+          "durationFrames": 642
+        }
+      ]
+    },
+    {
+      "id": "seg-02",
+      "chapterId": "ch-body",
+      "sceneIds": [
+        "dimensions",
+        "aspect"
+      ],
+      "evidenceIds": [
+        "e-size",
+        "e-passport",
+        "e-area",
+        "e-aspect"
+      ],
+      "sourceLabel": "Apple Support · Apple Newsroom",
+      "audioFile": "projects/iphone-duo/audio/en/seg-02.mp3",
+      "startFrame": 650,
+      "durationFrames": 1225,
+      "narration": "Closed, the spec sheet says 84.1 millimeters wide, 117.8 tall, and 11.3 deep. Open, it is 164.6 wide and 5.2 deep. The weight stays 254 grams. Apple calls that closed shape similar to a passport. It says the outer screen has 90 percent of the area of the iPhone 18 Pro, and the inner screen is 50 percent larger than the iPhone 18 Pro Max. It also says the displays share an aspect ratio. The grids are 1878 by 2670 at 430 ppi, and 1398 by 2034 at 460. They do not divide to the same ratio. A footnote says the corners are rounded and the viewable area is smaller.",
+      "captions": [
+        {
+          "startFrame": 2,
+          "endFrame": 202,
+          "text": "Closed, the spec sheet says 84.1 millimeters wide, 117.8 tall, and 11.3 deep."
+        },
+        {
+          "startFrame": 202,
+          "endFrame": 326,
+          "text": "Open, it is 164.6 wide and 5.2 deep."
+        },
+        {
+          "startFrame": 326,
+          "endFrame": 397,
+          "text": "The weight stays 254 grams."
+        },
+        {
+          "startFrame": 397,
+          "endFrame": 476,
+          "text": "Apple calls that closed shape similar to a passport."
+        },
+        {
+          "startFrame": 476,
+          "endFrame": 723,
+          "text": "It says the outer screen has 90 percent of the area of the iPhone 18 Pro, and the inner screen is 50 percent larger than the iPhone 18 Pro Max."
+        },
+        {
+          "startFrame": 723,
+          "endFrame": 809,
+          "text": "It also says the displays share an aspect ratio."
+        },
+        {
+          "startFrame": 809,
+          "endFrame": 1047,
+          "text": "The grids are 1878 by 2670 at 430 ppi, and 1398 by 2034 at 460."
+        },
+        {
+          "startFrame": 1047,
+          "endFrame": 1105,
+          "text": "They do not divide to the same ratio."
+        },
+        {
+          "startFrame": 1105,
+          "endFrame": 1224,
+          "text": "A footnote says the corners are rounded and the viewable area is smaller."
+        }
+      ],
+      "translations": {
+        "es": "La ficha técnica es el cuerpo. Cerrado: 84,1 milímetros de ancho, 117,8 de alto y 11,3 de fondo. Abierto: 164,6 de ancho y 5,2 de fondo. El peso sigue en 254 gramos. Apple dice que, cerrado, el tamaño se parece al de un pasaporte. Dice que la pantalla exterior tiene el 90 por ciento del área del iPhone 18 Pro, y que la interior es un 50 por ciento más grande que la del iPhone 18 Pro Max. También dice que las dos pantallas comparten la relación de aspecto. Las rejillas son 1878 por 2670 a 430 ppi dentro, y 1398 por 2034 a 460 fuera. Esas rejillas no dan la misma proporción. Una nota dice que las esquinas son redondeadas y que el área visible es menor que el rectángulo.",
+        "zh": "规格表就是这台机器的身体。合上：宽 84.1 毫米，高 117.8，厚 11.3。展开：宽 164.6，厚 5.2。重量仍是 254 克。苹果说，合上后的大小接近一本护照。苹果还说，外屏面积是 iPhone 18 Pro 的 90%，内屏比 iPhone 18 Pro Max 大 50%。苹果也说两块屏幕的宽高比相同。像素是内屏 1878 乘 2670、430 ppi，外屏 1398 乘 2034、460 ppi。这两组像素除出来的比例并不一样。脚注写明边角是圆的，可视面积小于那个矩形。"
+      },
+      "shots": [
+        {
+          "id": "sh-body",
+          "scene": "dimensions",
+          "startFrame": 0,
+          "durationFrames": 674
+        },
+        {
+          "id": "sh-ratio",
+          "scene": "aspect",
+          "startFrame": 674,
+          "durationFrames": 551
+        }
+      ]
+    },
+    {
+      "id": "seg-03",
+      "chapterId": "ch-body",
+      "sceneIds": [
+        "stack"
+      ],
+      "evidenceIds": [
+        "e-crease",
+        "e-stack"
+      ],
+      "sourceLabel": "Counterpoint Research · Apple Newsroom",
+      "audioFile": "projects/iphone-duo/audio/en/seg-03.mp3",
+      "startFrame": 1883,
+      "durationFrames": 654,
+      "narration": "On May 12, 2026, Counterpoint wrote that crease work had moved past the hinge, into stiffness, thickness, and stress. Apple's cover is a nano-textured custom polymer, up to 40 percent stiffer than other industry materials it does not name. Glass sits above the panel and below it. Adhesives are meant to let the layers glide, like pages in a book. A titanium plate is at the bottom.",
+      "captions": [
+        {
+          "startFrame": 1,
+          "endFrame": 228,
+          "text": "On May 12, 2026, Counterpoint wrote that crease work had moved past the hinge, into stiffness, thickness, and stress."
+        },
+        {
+          "startFrame": 228,
+          "endFrame": 420,
+          "text": "Apple's cover is a nano-textured custom polymer, up to 40 percent stiffer than other industry materials it does not name."
+        },
+        {
+          "startFrame": 420,
+          "endFrame": 485,
+          "text": "Glass sits above the panel and below it."
+        },
+        {
+          "startFrame": 485,
+          "endFrame": 593,
+          "text": "Adhesives are meant to let the layers glide, like pages in a book."
+        },
+        {
+          "startFrame": 593,
+          "endFrame": 652,
+          "text": "A titanium plate is at the bottom."
+        }
+      ],
+      "translations": {
+        "es": "El pliegue explica por qué esta categoría siguió siendo pequeña. El 12 de mayo de 2026, Counterpoint Research escribió que el trabajo ya no estaba solo en la bisagra, sino en la rigidez, el grosor y en cómo las capas sueltan la tensión. La pila de Apple es concreta. Una cubierta con nanotextura, de un polímero propio, con hasta un 40 por ciento más de rigidez que otros materiales usados en la industria. Vidrio encima del panel y vidrio debajo. Adhesivos que deberían dejar deslizar esas capas, y Apple los compara con las páginas de un libro. Una placa de titanio al fondo. Esa frase del 40 por ciento no nombra los otros materiales.",
+        "zh": "折痕是这个品类一直很小的原因。2026年5月12日，Counterpoint Research 写道，这项工作已经不单是铰链，而是刚度、厚度，以及各层如何释放应力。苹果描述的叠层很具体。纳米纹理的定制聚合物盖板，刚度据称比业内其他材料高出最多 40%。面板上下都有玻璃。粘合层要让这些层彼此滑移，苹果把它比作书页。最底下是一块钛板。那句 40% 并没有写出对照的是哪些材料。"
+      },
+      "shots": [
+        {
+          "id": "sh-stack",
+          "scene": "stack",
+          "startFrame": 0,
+          "durationFrames": 654
+        }
+      ]
+    },
+    {
+      "id": "seg-04",
+      "chapterId": "ch-machine",
+      "sceneIds": [
+        "hinge",
+        "durability"
+      ],
+      "evidenceIds": [
+        "e-hinge",
+        "e-recycle",
+        "e-shield"
+      ],
+      "sourceLabel": "Apple Newsroom",
+      "audioFile": "projects/iphone-duo/audio/en/seg-04.mp3",
+      "startFrame": 2545,
+      "durationFrames": 996,
+      "narration": "Apple says the hinge has more than 100 components and carbon fiber plates, holding the display flat when open, with a magnet array to close. The 3D-printed cover is 100 percent recycled titanium. The frame is grade 5 titanium. Ceramic Shield 2 is claimed at 3 times the previous scratch resistance. IP68, in the footnote, is a lab test: 6 meters, up to 30 minutes, under IEC 60529, and it is not permanent. Recycled content is 35 percent of device mass, including 100 percent of the battery cobalt. Packaging is excluded.",
+      "captions": [
+        {
+          "startFrame": 1,
+          "endFrame": 222,
+          "text": "Apple says the hinge has more than 100 components and carbon fiber plates, holding the display flat when open, with a magnet array to close."
+        },
+        {
+          "startFrame": 222,
+          "endFrame": 340,
+          "text": "The 3D-printed cover is 100 percent recycled titanium."
+        },
+        {
+          "startFrame": 340,
+          "endFrame": 402,
+          "text": "The frame is grade 5 titanium."
+        },
+        {
+          "startFrame": 402,
+          "endFrame": 518,
+          "text": "Ceramic Shield 2 is claimed at 3 times the previous scratch resistance."
+        },
+        {
+          "startFrame": 518,
+          "endFrame": 777,
+          "text": "IP68, in the footnote, is a lab test: 6 meters, up to 30 minutes, under IEC 60529, and it is not permanent."
+        },
+        {
+          "startFrame": 777,
+          "endFrame": 948,
+          "text": "Recycled content is 35 percent of device mass, including 100 percent of the battery cobalt."
+        },
+        {
+          "startFrame": 948,
+          "endFrame": 994,
+          "text": "Packaging is excluded."
+        }
+      ],
+      "translations": {
+        "es": "Apple dice que la bisagra usa más de 100 componentes y placas de fibra de carbono, para mantener la pantalla plana cuando el teléfono está abierto, y un conjunto de imanes para el cierre. La cubierta impresa en 3D es titanio 100 por ciento reciclado. El marco es titanio de grado 5. Ceramic Shield 2, en el frente, se anuncia con 3 veces la resistencia a los arañazos de la generación anterior. La resistencia al agua es IP68. En la nota, eso es una prueba de laboratorio: 6 metros, hasta 30 minutos, bajo la IEC 60529, y la resistencia no es permanente. Apple también dice que el 35 por ciento de la masa del dispositivo es contenido reciclado, incluido el 100 por ciento del cobalto de la batería. El embalaje no entra en ese porcentaje.",
+        "zh": "苹果说，铰链有 100 多个零件和碳纤维支撑板，展开时托住屏幕中部让它保持平整，合上时还有一组磁铁。3D 打印的铰链盖是 100% 再生钛。边框是 5 级钛。正面的 Ceramic Shield 2 据称抗刮能力是上一代的 3 倍。防水等级是 IP68。脚注里，这是一次实验室测试：6 米、最长 30 分钟、依据 IEC 60529，而且这种防护不是永久的。苹果还说，整机质量的 35% 是再生材料，包括电池里 100% 的再生钴。包装不计入这个比例。"
+      },
+      "shots": [
+        {
+          "id": "sh-hinge",
+          "scene": "hinge",
+          "startFrame": 0,
+          "durationFrames": 478
+        },
+        {
+          "id": "sh-shield",
+          "scene": "durability",
+          "startFrame": 478,
+          "durationFrames": 518
+        }
+      ]
+    },
+    {
+      "id": "seg-05",
+      "chapterId": "ch-machine",
+      "sceneIds": [
+        "silicon"
+      ],
+      "evidenceIds": [
+        "e-chip",
+        "e-vapor"
+      ],
+      "sourceLabel": "Apple Newsroom",
+      "audioFile": "projects/iphone-duo/audio/en/seg-05.mp3",
+      "startFrame": 3549,
+      "durationFrames": 819,
+      "narration": "A20 Pro is the same chip as in the iPhone 18 Pro. Apple says it is 2-nanometer. The 6-core CPU is up to 20 percent faster than A19 Pro. The 7-core GPU is up to 40 percent faster. Two 16-core Neural Engines offer 2 times the compute, with 50 percent more memory bandwidth, on a vapor chamber. The quoted line is up to 35 percent better sustained performance than the iPhone 17 Pro. That is Apple's comparison. No independent lab test was in the pages we read.",
+      "captions": [
+        {
+          "startFrame": 1,
+          "endFrame": 97,
+          "text": "A20 Pro is the same chip as in the iPhone 18 Pro."
+        },
+        {
+          "startFrame": 97,
+          "endFrame": 146,
+          "text": "Apple says it is 2-nanometer."
+        },
+        {
+          "startFrame": 146,
+          "endFrame": 256,
+          "text": "The 6-core CPU is up to 20 percent faster than A19 Pro."
+        },
+        {
+          "startFrame": 256,
+          "endFrame": 348,
+          "text": "The 7-core GPU is up to 40 percent faster."
+        },
+        {
+          "startFrame": 348,
+          "endFrame": 544,
+          "text": "Two 16-core Neural Engines offer 2 times the compute, with 50 percent more memory bandwidth, on a vapor chamber."
+        },
+        {
+          "startFrame": 544,
+          "endFrame": 694,
+          "text": "The quoted line is up to 35 percent better sustained performance than the iPhone 17 Pro."
+        },
+        {
+          "startFrame": 694,
+          "endFrame": 736,
+          "text": "That is Apple's comparison."
+        },
+        {
+          "startFrame": 736,
+          "endFrame": 817,
+          "text": "No independent lab test was in the pages we read."
+        }
+      ],
+      "translations": {
+        "es": "El chip es el A20 Pro, el mismo que Apple pone en el iPhone 18 Pro. Apple dice que está fabricado en un proceso de 2 nanómetros. Una CPU de 6 núcleos, hasta un 20 por ciento más rápida que el A19 Pro. Una GPU de 7 núcleos, hasta un 40 por ciento más rápida. Dos Neural Engines de 16 núcleos, con 2 veces el cómputo. Un 50 por ciento más de ancho de banda de memoria unificada. Apple dice que el encapsulado se inspira en sus chips de la serie M y va sobre una cámara de vapor propia. La frase que se va a repetir es esta: hasta un 35 por ciento más de rendimiento sostenido que el iPhone 17 Pro. Es la comparación de Apple, contra un Pro anterior. Las páginas leídas para esta pieza no incluyen una prueba de un laboratorio independiente.",
+        "zh": "芯片是 A20 Pro，也就是苹果用在 iPhone 18 Pro 上的那颗。苹果说它采用 2 纳米工艺。6 核 CPU，比 A19 Pro 最多快 20%。7 核 GPU，最多快 40%。两颗 16 核神经网络引擎，算力是 2 倍。统一内存带宽多 50%。苹果说，这颗芯片的封装借鉴了 M 系列，并直接连到一块定制均热板。会被反复引用的那句是：持续性能比 iPhone 17 Pro 最多高 35%。这是苹果自己的对比，对象是上一代 Pro。为本片读过的页面里，没有独立实验室的测试。"
+      },
+      "shots": [
+        {
+          "id": "sh-chip",
+          "scene": "silicon",
+          "startFrame": 0,
+          "durationFrames": 819
+        }
+      ]
+    },
+    {
+      "id": "seg-06",
+      "chapterId": "ch-machine",
+      "sceneIds": [
+        "battery"
+      ],
+      "evidenceIds": [
+        "e-battery",
+        "e-charge"
+      ],
+      "sourceLabel": "Apple Newsroom",
+      "audioFile": "projects/iphone-duo/audio/en/seg-06.mp3",
+      "startFrame": 4376,
+      "durationFrames": 945,
+      "narration": "One battery sits on each side, and Apple says software makes them one pack. In August 2026 tests on preproduction phones, video playback is up to 44 hours on the outer display and 31 on the inner. The 24 hour figure is mixed use, both displays, on LTE and 5G. It is not video. Fast charge, tested in July 2026 on a drained open phone, is about 50 percent in 20 minutes on a 60 watt adapter, or about 30 minutes with MagSafe or Qi2. The phone is eSIM only, worldwide, to leave room for the cells.",
+      "captions": [
+        {
+          "startFrame": 1,
+          "endFrame": 126,
+          "text": "One battery sits on each side, and Apple says software makes them one pack."
+        },
+        {
+          "startFrame": 126,
+          "endFrame": 364,
+          "text": "In August 2026 tests on preproduction phones, video playback is up to 44 hours on the outer display and 31 on the inner."
+        },
+        {
+          "startFrame": 364,
+          "endFrame": 509,
+          "text": "The 24 hour figure is mixed use, both displays, on LTE and 5G."
+        },
+        {
+          "startFrame": 509,
+          "endFrame": 540,
+          "text": "It is not video."
+        },
+        {
+          "startFrame": 540,
+          "endFrame": 830,
+          "text": "Fast charge, tested in July 2026 on a drained open phone, is about 50 percent in 20 minutes on a 60 watt adapter, or about 30 minutes with MagSafe or Qi2."
+        },
+        {
+          "startFrame": 830,
+          "endFrame": 942,
+          "text": "The phone is eSIM only, worldwide, to leave room for the cells."
+        }
+      ],
+      "translations": {
+        "es": "Hay una batería a cada lado. Apple dice que el software las hace funcionar como una sola. La reproducción de vídeo, en pruebas de agosto de 2026 con unidades de preproducción, llega hasta 44 horas en la pantalla exterior y 31 horas en la interior. La cifra de 24 horas es otra prueba. Es uso mixto, con las dos pantallas por igual, en LTE y 5G. No son 24 horas de vídeo. La carga rápida se probó en julio de 2026, con el teléfono descargado y abierto. Un 50 por ciento en unos 20 minutos con un adaptador de 60 vatios, o unos 30 minutos de forma inalámbrica con MagSafe o Qi2. El teléfono es solo eSIM, en todo el mundo. La razón que da Apple es dejar sitio para esas celdas.",
+        "zh": "两侧各有一块电池。苹果说，软件让它们像一块电池那样工作。视频播放的数字来自 2026 年 8 月对试产机的测试：外屏最多 44 小时，内屏最多 31 小时。24 小时是另一项测试。那是混合使用，两块屏幕用得一样多，连着 LTE 和 5G。它不是 24 小时视频。快充测于 2026 年 7 月，手机电量耗尽并且展开。用 60 瓦适配器大约 20 分钟到 50%，MagSafe 或 Qi2 无线大约 30 分钟到 50%。这台手机在全球都只有 eSIM。苹果给出的理由，是把空间留给这些电芯。"
+      },
+      "shots": [
+        {
+          "id": "sh-cells",
+          "scene": "battery",
+          "startFrame": 0,
+          "durationFrames": 945
+        }
+      ]
+    },
+    {
+      "id": "seg-07",
+      "chapterId": "ch-market",
+      "sceneIds": [
+        "market"
+      ],
+      "evidenceIds": [
+        "e-year-share",
+        "e-quarter-share"
+      ],
+      "sourceLabel": "Counterpoint Research",
+      "audioFile": "projects/iphone-duo/audio/en/seg-07.mp3",
+      "startFrame": 5329,
+      "durationFrames": 848,
+      "narration": "The market this phone enters depends on the clock. Counterpoint's report of May 12, 2026, says 2025 foldable shipments were 19.6 million units, up 18 percent, and only 1.6 percent of global smartphone shipments. An earlier note, dated December 2, 2025, put the third quarter alone at 2.5 percent of shipments, up 14 percent from the year before. A quarter is not a year. Neither number is an iPhone Duo sales figure. On those dates, this phone was not on sale.",
+      "captions": [
+        {
+          "startFrame": 1,
+          "endFrame": 69,
+          "text": "The market this phone enters depends on the clock."
+        },
+        {
+          "startFrame": 69,
+          "endFrame": 408,
+          "text": "Counterpoint's report of May 12, 2026, says 2025 foldable shipments were 19.6 million units, up 18 percent, and only 1.6 percent of global smartphone shipments."
+        },
+        {
+          "startFrame": 408,
+          "endFrame": 663,
+          "text": "An earlier note, dated December 2, 2025, put the third quarter alone at 2.5 percent of shipments, up 14 percent from the year before."
+        },
+        {
+          "startFrame": 663,
+          "endFrame": 701,
+          "text": "A quarter is not a year."
+        },
+        {
+          "startFrame": 701,
+          "endFrame": 777,
+          "text": "Neither number is an iPhone Duo sales figure."
+        },
+        {
+          "startFrame": 777,
+          "endFrame": 846,
+          "text": "On those dates, this phone was not on sale."
+        }
+      ],
+      "translations": {
+        "es": "El mercado al que entra este teléfono depende del reloj. El informe de Counterpoint del 12 de mayo de 2026 dice que los envíos de plegables en 2025 fueron 19,6 millones de unidades, un 18 por ciento más, y solo el 1,6 por ciento de los envíos mundiales de smartphones. Una nota anterior, del 2 de diciembre de 2025, situó solo el tercer trimestre en el 2,5 por ciento de los envíos, un 14 por ciento más que el año anterior. Un trimestre no es un año. Ninguna de las dos cifras es una venta del iPhone Duo. En esas fechas, este teléfono no estaba a la venta.",
+        "zh": "这台手机进入的市场，取决于你看哪只钟。Counterpoint 在 2026 年 5 月 12 日的报告里说，2025 年可折叠手机出货 1960 万部，增长 18%，只占全球智能手机出货的 1.6%。更早的一篇，日期是 2025 年 12 月 2 日，把第三季度单独算成出货份额 2.5%，同比增长 14%。一个季度不是一整年。这两个数字都不是 iPhone Duo 的销量。在那些日期，这台手机还没有开卖。"
+      },
+      "shots": [
+        {
+          "id": "sh-share",
+          "scene": "market",
+          "startFrame": 0,
+          "durationFrames": 848
+        }
+      ]
+    },
+    {
+      "id": "seg-08",
+      "chapterId": "ch-market",
+      "sceneIds": [
+        "price"
+      ],
+      "evidenceIds": [
+        "e-price",
+        "e-verge-price"
+      ],
+      "sourceLabel": "Apple Newsroom · The Verge",
+      "audioFile": "projects/iphone-duo/audio/en/seg-08.mp3",
+      "startFrame": 6185,
+      "durationFrames": 916,
+      "narration": "The U.S. starting price is 1999 dollars for 256 gigabytes. 83.29 dollars a month for 24 months is financing, and the footnote requires credit approval. Storage also comes in 512 gigabytes, 1TB, and 2TB. Colors are star white and night sky. On September 9, 2026, The Verge put 1999 dollars 100 dollars above the Galaxy Z Fold 8 and 100 below the Z Fold 8 Ultra. Samsung's own price page is not in this file.",
+      "captions": [
+        {
+          "startFrame": 1,
+          "endFrame": 162,
+          "text": "The U.S. starting price is 1999 dollars for 256 gigabytes."
+        },
+        {
+          "startFrame": 162,
+          "endFrame": 336,
+          "text": "83.29 dollars a month for 24 months is financing, and the footnote requires credit approval."
+        },
+        {
+          "startFrame": 336,
+          "endFrame": 477,
+          "text": "Storage also comes in 512 gigabytes, 1TB, and 2TB."
+        },
+        {
+          "startFrame": 477,
+          "endFrame": 538,
+          "text": "Colors are star white and night sky."
+        },
+        {
+          "startFrame": 538,
+          "endFrame": 839,
+          "text": "On September 9, 2026, The Verge put 1999 dollars 100 dollars above the Galaxy Z Fold 8 and 100 below the Z Fold 8 Ultra."
+        },
+        {
+          "startFrame": 839,
+          "endFrame": 913,
+          "text": "Samsung's own price page is not in this file."
+        }
+      ],
+      "translations": {
+        "es": "El comunicado de Apple pone el precio inicial en Estados Unidos en 1999 dólares por 256 gigabytes. Los 83,29 dólares al mes, durante 24 meses, son financiación. La nota exige aprobación de crédito. No es un teléfono más barato. El almacenamiento llega a 512 gigabytes, 1TB y 2TB. Los colores son star white y night sky. The Verge, el 9 de septiembre de 2026, situó esos 1999 dólares 100 dólares por encima del Galaxy Z Fold 8 de Samsung y 100 dólares por debajo del Z Fold 8 Ultra. Esa distancia es la comparación de The Verge. La página de precios de Samsung no está en este expediente.",
+        "zh": "苹果的新闻稿把美国起售价写成 256GB 1999 美元。每月 83.29 美元、共 24 个月，是分期。脚注要求信用审批。那不是一台更便宜的手机。存储还有 512GB、1TB 和 2TB。颜色是星白和夜空。The Verge 在 2026 年 9 月 9 日写道，1999 美元比三星 Galaxy Z Fold 8 高 100 美元，比 Z Fold 8 Ultra 低 100 美元。这个差距是 The Verge 的比较。三星自己的价格页不在这份档案里。"
+      },
+      "shots": [
+        {
+          "id": "sh-price",
+          "scene": "price",
+          "startFrame": 0,
+          "durationFrames": 916
+        }
+      ]
+    },
+    {
+      "id": "seg-09",
+      "chapterId": "ch-record",
+      "sceneIds": [
+        "map"
+      ],
+      "evidenceIds": [
+        "e-launch"
+      ],
+      "sourceLabel": "Apple Newsroom",
+      "audioFile": "projects/iphone-duo/audio/en/seg-09.mp3",
+      "startFrame": 7109,
+      "durationFrames": 963,
+      "narration": "Pre-orders opened at 5 a.m. Pacific Time on October 16, 2026. Availability was October 23. Apple named more than 70 countries and regions in that first wave, including Australia, Brazil, Canada, China, Colombia, France, Germany, India, Japan, Malaysia, Mexico, Singapore, South Korea, Türkiye, the UAE, the UK, the U.S., and Vietnam. 28 more countries and regions were set for October 30. The dots on this map are those named countries. They are not factories, and they are not stores.",
+      "captions": [
+        {
+          "startFrame": 1,
+          "endFrame": 142,
+          "text": "Pre-orders opened at 5 a.m. Pacific Time on October 16, 2026."
+        },
+        {
+          "startFrame": 142,
+          "endFrame": 206,
+          "text": "Availability was October 23."
+        },
+        {
+          "startFrame": 206,
+          "endFrame": 709,
+          "text": "Apple named more than 70 countries and regions in that first wave, including Australia, Brazil, Canada, China, Colombia, France, Germany, India, Japan, Malaysia, Mexico, Singapore, South Korea, Türkiye, the UAE, the UK, the U.S., and Vietnam."
+        },
+        {
+          "startFrame": 709,
+          "endFrame": 815,
+          "text": "28 more countries and regions were set for October 30."
+        },
+        {
+          "startFrame": 815,
+          "endFrame": 888,
+          "text": "The dots on this map are those named countries."
+        },
+        {
+          "startFrame": 888,
+          "endFrame": 960,
+          "text": "They are not factories, and they are not stores."
+        }
+      ],
+      "translations": {
+        "es": "La reserva empezó a las 5 de la mañana, hora del Pacífico, el 16 de octubre de 2026. La disponibilidad era el 23 de octubre. Apple nombró más de 70 países y regiones en esa primera oleada, entre ellos Australia, Brasil, Canadá, China, Colombia, Francia, Alemania, India, Japón, Malasia, México, Singapur, Corea del Sur, Turquía, Emiratos Árabes Unidos, Reino Unido, Estados Unidos y Vietnam. Otros 28 países y regiones quedaron para el 30 de octubre. Los puntos de este mapa son esos países nombrados. No son fábricas, ni tiendas.",
+        "zh": "预购从 2026 年 10 月 16 日太平洋时间凌晨 5 点开始。开卖日期是 10 月 23 日。苹果说第一波有 70 多个国家和地区，点名的包括澳大利亚、巴西、加拿大、中国、哥伦比亚、法国、德国、印度、日本、马来西亚、墨西哥、新加坡、韩国、土耳其、阿联酋、英国、美国和越南。另外 28 个国家和地区定在 10 月 30 日。这张地图上的点，是这些被点名的国家。不是工厂，也不是门店。"
+      },
+      "shots": [
+        {
+          "id": "sh-map",
+          "scene": "map",
+          "startFrame": 0,
+          "durationFrames": 963
+        }
+      ]
+    },
+    {
+      "id": "seg-10",
+      "chapterId": "ch-record",
+      "sceneIds": [
+        "thesis",
+        "sources"
+      ],
+      "evidenceIds": [
+        "e-year-share",
+        "e-stack",
+        "e-hinge",
+        "e-battery",
+        "e-size",
+        "e-shield"
+      ],
+      "sourceLabel": "Counterpoint Research · Apple Newsroom · Apple Support",
+      "audioFile": "projects/iphone-duo/audio/en/seg-10.mp3",
+      "startFrame": 8080,
+      "durationFrames": 761,
+      "narration": "Foldable phones were not new in 2026. On Counterpoint's full-year count they were still 1.6 percent of shipments. What Apple put on paper was a polymer stack, a hinge of more than 100 parts, two batteries treated as one, and a body that is 11.3 millimeters closed and 5.2 open. The footnotes stay attached. Preproduction battery tests. A water rating that is not permanent. A stiffness claim that names no rival material. That is the record.",
+      "captions": [
+        {
+          "startFrame": 1,
+          "endFrame": 81,
+          "text": "Foldable phones were not new in 2026."
+        },
+        {
+          "startFrame": 81,
+          "endFrame": 203,
+          "text": "On Counterpoint's full-year count they were still 1.6 percent of shipments."
+        },
+        {
+          "startFrame": 203,
+          "endFrame": 493,
+          "text": "What Apple put on paper was a polymer stack, a hinge of more than 100 parts, two batteries treated as one, and a body that is 11.3 millimeters closed and 5.2 open."
+        },
+        {
+          "startFrame": 493,
+          "endFrame": 539,
+          "text": "The footnotes stay attached."
+        },
+        {
+          "startFrame": 539,
+          "endFrame": 589,
+          "text": "Preproduction battery tests."
+        },
+        {
+          "startFrame": 589,
+          "endFrame": 642,
+          "text": "A water rating that is not permanent."
+        },
+        {
+          "startFrame": 642,
+          "endFrame": 727,
+          "text": "A stiffness claim that names no rival material."
+        },
+        {
+          "startFrame": 727,
+          "endFrame": 758,
+          "text": "That is the record."
+        }
+      ],
+      "translations": {
+        "es": "Los teléfonos plegables no eran nuevos en 2026. En el recuento anual de Counterpoint seguían siendo el 1,6 por ciento de los envíos. Lo que Apple dejó por escrito fue una pila de polímero, una bisagra de más de 100 piezas, dos baterías tratadas como una, y un cuerpo de 11,3 milímetros cerrado y 5,2 abierto. Las notas se quedan pegadas. Pruebas de batería con unidades de preproducción. Una resistencia al agua que no es permanente. Una afirmación de rigidez que no nombra el material rival. Ese es el expediente.",
+        "zh": "可折叠手机在 2026 年并不是新东西。按 Counterpoint 的全年统计，它们仍然只占出货的 1.6%。苹果写在纸上的，是一套聚合物叠层、一个超过 100 个零件的铰链、两块被当成一块来用的电池，以及合上 11.3 毫米、展开 5.2 毫米的机身。脚注还留在旁边。电池测试用的是试产机。防水等级不是永久的。刚度对比没有写出对方的材料。这就是这份记录。"
+      },
+      "shots": [
+        {
+          "id": "sh-thesis",
+          "scene": "thesis",
+          "startFrame": 0,
+          "durationFrames": 517
+        },
+        {
+          "id": "sh-sources",
+          "scene": "sources",
+          "startFrame": 517,
+          "durationFrames": 244
+        }
+      ]
+    }
+  ]
+}

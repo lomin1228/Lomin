@@ -4,3 +4,9 @@ debug/
 *.log
 .DS_Store
 .claude/
+studio/node_modules/
+studio/out/
+studio/data/*.sqlite
+studio/data/*.sqlite-*
+studio/.env
+studio/public/projects/

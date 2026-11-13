@@ -1,0 +1,40 @@
+{
+  "name": "documentary-studio",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "seed": "tsx src/cli/seed.ts",
+    "narrate": "tsx src/cli/narrate.ts",
+    "timeline": "tsx src/cli/timeline.ts",
+    "qa": "tsx src/cli/qa.ts",
+    "score": "python3 src/audio/score.py",
+    "render": "remotion render src/remotion/index.ts Documentary out/iphone-duo.mp4 --concurrency=2",
+    "finish": "tsx src/cli/finish.ts",
+    "produce": "tsx src/cli/produce.ts",
+    "studio": "vite --host 0.0.0.0 --port 3000",
+    "test": "tsx --test src/qa/checks.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource/fredoka": "^5.2.5",
+    "@fontsource/nunito": "^5.2.5",
+    "@remotion/cli": "4.0.543",
+    "d3-scale": "^4.0.2",
+    "d3-shape": "^3.2.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "remotion": "4.0.543"
+  },
+  "devDependencies": {
+    "@types/d3-scale": "^4.0.9",
+    "@types/d3-shape": "^3.2.0",
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "vite": "^6.2.0"
+  }
+}
